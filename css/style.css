@@ -10,3 +10,15 @@
     border-radius: 10px;
     border: 1px solid blue;
 }
+
+.img-box{
+    width: 45vw;
+    height: 100vh
+}
+
+.img-box img{
+    width: 100%;
+    height: 100%;
+    border-radius: 15px;
+    padding: 10px;
+}
