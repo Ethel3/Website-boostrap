@@ -24,20 +24,20 @@
 }
 
 
-    #login .container #login-row #login-column #login-box {
-        margin-top: 15px;
-        min-width: 800px;
-        min-height: 320px;
-        border: 1px solid #9C9C9C;
-        background-color: #EAEAEA;
-        margin-bottom: 10px;
-      }
-      #login .container #login-row #login-column #login-box #login-form {
-        padding: 20px;
-      }
-      #login .container #login-row #login-column #login-box #login-form #register-link {
-        margin-top: -85px;
-      }
+#login .container #login-row #login-column #login-box {
+    margin-top: 15px;
+    min-width: 800px;
+    min-height: 320px;
+    border: 1px solid #9C9C9C;
+    background-color: #EAEAEA;
+    margin-bottom: 10px;
+  }
+  #login .container #login-row #login-column #login-box #login-form {
+    padding: 20px;
+  }
+  #login .container #login-row #login-column #login-box #login-form #register-link {
+    margin-top: -85px;
+  }
       #tabs .section-title {
         text-align: center;
         color: blue;
